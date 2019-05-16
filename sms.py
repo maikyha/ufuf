@@ -10,9 +10,7 @@ print(colored('''
 ║╚═╝║╔╝║
 ╚═══╝╚═╝
 НЕ ХОЧУ МУЧАТЬСЯ ИСКАТЬ ГЕНЕРАТОР''','red'))
-print(colored('''
- Для оставки скрипта на андроид - Vol(-)+Z
- ''','cyan'))
+
 print(colored('''
 SPECIAL FOR MAYSKIY DOLBAEB
 ''','red'))
@@ -24,7 +22,7 @@ print(colored('''
 ''','yellow'))
 print(colored('''
 С ВАМИ БЫЛ МАЙКУХА ГОЛДИ, СОФТ НА ГИТХАБЕ ССЫЛКУ В ЛС СКИНУ
-''','pink'))
+''','red'))
 
 phone = input('Phone Number (Format +7999999999 / +380999999999')
 
